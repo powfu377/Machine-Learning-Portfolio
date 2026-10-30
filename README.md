@@ -33,8 +33,6 @@ The goal of this project is not just to predict house prices accurately, but als
 - Pandas & NumPy (Data Manipulation)
 - Scikit-Learn (Machine Learning Models & Preprocessing)
 - Matplotlib & Seaborn (Data Visualization)
-
-## 💻 How to Run the Code
 1. Clone the repository:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
