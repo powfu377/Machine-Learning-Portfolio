@@ -43,19 +43,19 @@ An end-to-end Machine Learning project to detect fraudulent credit card transact
 
 ## 📈 Key Results & Performance
 
-* **ROC-AUC Score:** $\approx 0.9778$
-* **PR-AUC (Average Precision) Score:** $\approx 0.7457$
+* **ROC-AUC Score:** $\approx 0.9786$
+* **PR-AUC (Average Precision) Score:** $\approx 0.7387$
 * **At Default Threshold ($0.5$):** Achieved a high **Recall of $91.84\%$** to capture the vast majority of frauds.
-* **At Optimized Threshold ($0.9$):** 
-  - **Precision** jumped significantly to **$46.41\%$** (drastically reducing false alarms/customer blockages).
-  - **Recall** remained strong at **$85.71\%$**.
-  - **False Positives** dropped from $543$ down to just $97$.
+* **At Optimized Threshold ($0.95$):** 
+  - **Precision** jumped significantly to **$26.15\%$** (drastically reducing false alarms/customer blockages).
+  - **Recall** remained strong at **$86.73\%$**.
+  - **False Positives** dropped from $1462$ down to just $240$.
 
 ---
 
 ## 📂 Code Structure
 
 ```text
-├── creditcard.csv                 # Dataset (downloaded from Kaggle)
+├── creditcard.txt                 # Dataset (downloaded from Kaggle)
 ├── credit_card_fraud.ipynb          # Main script containing EDA, preprocessing, and modeling
 ├── README.md                      # Project documentation
