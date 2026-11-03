@@ -17,3 +17,6 @@ Projects I did while I was learning
   
 5-**KNN:**
   https://github.com/powfu377/Machine-Learning-Portfolio/tree/KNN
+
+6-**Naive Bayes:**
+  https://github.com/powfu377/Machine-Learning-Portfolio/tree/Naive-Bayes-%26-Nlp
