@@ -1,7 +1,7 @@
 # Machine-Learning-Portfolio
 Projects I did while I was learning
 
-##Branches Table:
+## Branches Table:
 
 1- **Linear Regression:**
   https://github.com/powfu377/Machine-Learning-Portfolio/tree/Linear-Regression
