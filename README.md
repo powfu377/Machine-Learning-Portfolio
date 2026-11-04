@@ -20,3 +20,6 @@ Projects I did while I was learning
 
 6-**Naive Bayes:**
   https://github.com/powfu377/Machine-Learning-Portfolio/tree/Naive-Bayes-%26-Nlp
+
+7-**K-mean:**
+  https://github.com/powfu377/Machine-Learning-Portfolio/tree/K-mean-(-Unsupervised-)
