@@ -23,3 +23,6 @@ Projects I did while I was learning
 
 7-**K-mean:**
   https://github.com/powfu377/Machine-Learning-Portfolio/tree/K-mean-(-Unsupervised-)
+
+8- **XGBoost & LightGBM:**
+  https://github.com/powfu377/Machine-Learning-Portfolio/tree/XGBoost-%26-LightGBM
